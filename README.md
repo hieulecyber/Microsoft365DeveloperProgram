@@ -9,7 +9,7 @@ Một số lưu ý khi đăng ký tài khoản:
 Truy cập trang web https://developer.microsoft.com/en-us/microsoft-365/dev-program, nhấn _Join Now_
 ![image](https://github.com/hieulecyber/Microsoft365DeveloperProgram/assets/102139186/6ddce4fb-5fb5-49f1-a034-56acf497bd7f)
 
-Đăng nhập vào tài khoản email cá nhân (ví dụ *outlook.com, *hotmail.com,...) muốn đăng ký sử dụng gói Microsoft 365 Developer Program. Tiếp theo điền các thông tin cơ bản, đánh dấu chọn vào ô _I accept_
+Đăng nhập vào tài khoản email cá nhân (ví dụ *outlook.com, *hotmail.com,...) muốn đăng ký sử dụng gói Microsoft 365 Developer Program. Tiếp theo điền các thông tin cơ bản, đánh dấu chọn vào ô _I accept the terms and conditions..._
 
 ![image](https://github.com/hieulecyber/Microsoft365DeveloperProgram/assets/102139186/d90a3e2c-fc29-42f4-b43a-2b9b3187b94a)
 
