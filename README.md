@@ -1,17 +1,21 @@
-# Microsoft365DeveloperProgram
-Microsoft 365 Developer Program
-
-Truy cập trang web https://developer.microsoft.com/en-us/microsoft-365/dev-program, nhấn Join Now
+**Đăng ký tài khoản Microsoft 365 Developer Program**
+Một số lưu ý khi đăng ký tài khoản:
+- Không nên đăng ký nhiều người cùng lúc trên cùng một mạng Wi-Fi vì dễ bị Microsoft nhận diện là tấn công
+- Nên dùng trình duyệt trên điện thoại để đăng ký với kết nối 4G
+**1. Cách thức đăng ký**
+Truy cập trang web https://developer.microsoft.com/en-us/microsoft-365/dev-program, nhấn _Join Now_
 ![image](https://github.com/hieulecyber/Microsoft365DeveloperProgram/assets/102139186/6ddce4fb-5fb5-49f1-a034-56acf497bd7f)
 
-Đăng nhập vào tài khoản cá nhân muốn đăng ký sử dụng gói Microsoft 365 Developer Program. Tiếp theo điền các thông tin cơ bản, đánh dấu chọn vào ô I accept ... 
+Đăng nhập vào tài khoản email cá nhân (ví dụ *outlook.com, *hotmail.com,...) muốn đăng ký sử dụng gói Microsoft 365 Developer Program. Tiếp theo điền các thông tin cơ bản, đánh dấu chọn vào ô _I accept ... _
+
 ![image](https://github.com/hieulecyber/Microsoft365DeveloperProgram/assets/102139186/d90a3e2c-fc29-42f4-b43a-2b9b3187b94a)
 
 ![image](https://github.com/hieulecyber/Microsoft365DeveloperProgram/assets/102139186/404741f2-ee28-40d3-8824-14c7385458b6)
 
 ![image](https://github.com/hieulecyber/Microsoft365DeveloperProgram/assets/102139186/3ba91847-260e-4163-9a1b-15740b1afb7e)
 
-Chọn instant sandbox để có sẵn dữ liệu người dùng trong môi trường demo
+Chọn _instant sandbox_ để có sẵn dữ liệu người dùng trong môi trường thực hiện demo. Trong trường hợp chọn 
+
 ![image](https://github.com/hieulecyber/Microsoft365DeveloperProgram/assets/102139186/2917d8e5-7d1b-41f6-b6f3-b45b5c01c943)
 
 Cập nhật thông tin tài khoản quản trị và mật khẩu
