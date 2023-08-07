@@ -20,14 +20,16 @@ Chọn các thông tin theo ý thích cá nhân
 
 ![image](https://github.com/hieulecyber/Microsoft365DeveloperProgram/assets/102139186/3ba91847-260e-4163-9a1b-15740b1afb7e)
 
-Chọn _instant sandbox_ để có sẵn dữ liệu người dùng trong môi trường thực hiện demo. Trong trường hợp chọn 
+Chọn _instant sandbox_ để có sẵn dữ liệu người dùng trong môi trường thực hiện demo. Trong trường hợp chọn _Configuration sanbox_ sẽ không có dữ liệu trong tenant
 
 ![image](https://github.com/hieulecyber/Microsoft365DeveloperProgram/assets/102139186/2917d8e5-7d1b-41f6-b6f3-b45b5c01c943)
 
 Cập nhật thông tin tài khoản quản trị và mật khẩu
+
 ![image](https://github.com/hieulecyber/Microsoft365DeveloperProgram/assets/102139186/d32f7aef-0b5c-48cb-be57-32071eabf444)
 
 Cập nhật số điện thoại và nhận mã OTP để xác nhận số điện thoại
+
 ![image](https://github.com/hieulecyber/Microsoft365DeveloperProgram/assets/102139186/9399a25d-96a8-475c-be54-31ba16bab377)
 
 ![image](https://github.com/hieulecyber/Microsoft365DeveloperProgram/assets/102139186/3e689ad9-0df5-4363-b5b9-3abc5d1336d6)
