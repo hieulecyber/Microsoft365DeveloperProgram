@@ -38,7 +38,9 @@ Cuối cùng thông tin về tenant sẽ hiển thị như bên dưới. Có th�
 ![image](https://github.com/hieulecyber/Microsoft365DeveloperProgram/assets/102139186/3e689ad9-0df5-4363-b5b9-3abc5d1336d6)
 
 
+**2. Đăng nhập và sử dụng**
 
+   Truy cập vào trang web https://portal.office.com, đăng nhập bằng tài khoản admin và mật khẩu đã tạo để truy cập vào tenant Microsoft. 
 
 
 
