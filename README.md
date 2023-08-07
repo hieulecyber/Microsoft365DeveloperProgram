@@ -40,7 +40,14 @@ Cuối cùng thông tin về tenant sẽ hiển thị như bên dưới. Có th�
 
 **2. Đăng nhập và sử dụng**
 
-   Truy cập vào trang web https://portal.office.com, đăng nhập bằng tài khoản admin và mật khẩu đã tạo để truy cập vào tenant Microsoft. 
+   Truy cập vào trang web https://admin.microsoft.com/#/homepage, đăng nhập bằng tài khoản admin và mật khẩu đã tạo để truy cập vào trang quản lý Microsoft. Chọn _Settings_ > _Domain_, nhấn vào tên miền mặc định được Microsoft tạo. Trên thẻ _Overview_ chọn _Add onmicrosoft.com domain (preview)_ để tùy chỉnh tên tenant lại theo ý thích thay vì dùng tên mặc định của Microsoft.
+
+   
+   ![image](https://github.com/hieulecyber/Microsoft365DeveloperProgram/assets/102139186/976be2d0-3b52-4f6d-bc8a-60ccf98db656)
+
+   ![image](https://github.com/hieulecyber/Microsoft365DeveloperProgram/assets/102139186/368e1ccf-5def-4c89-93c8-687db2b75d93)
+
+
 
 
 
