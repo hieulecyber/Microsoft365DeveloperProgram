@@ -1,8 +1,11 @@
 **Đăng ký tài khoản Microsoft 365 Developer Program**
+
 Một số lưu ý khi đăng ký tài khoản:
 - Không nên đăng ký nhiều người cùng lúc trên cùng một mạng Wi-Fi vì dễ bị Microsoft nhận diện là tấn công
 - Nên dùng trình duyệt trên điện thoại để đăng ký với kết nối 4G
+- 
 **1. Cách thức đăng ký**
+  
 Truy cập trang web https://developer.microsoft.com/en-us/microsoft-365/dev-program, nhấn _Join Now_
 ![image](https://github.com/hieulecyber/Microsoft365DeveloperProgram/assets/102139186/6ddce4fb-5fb5-49f1-a034-56acf497bd7f)
 
