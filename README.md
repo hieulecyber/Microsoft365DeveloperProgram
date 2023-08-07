@@ -13,6 +13,9 @@ Truy cập trang web https://developer.microsoft.com/en-us/microsoft-365/dev-pro
 
 ![image](https://github.com/hieulecyber/Microsoft365DeveloperProgram/assets/102139186/d90a3e2c-fc29-42f4-b43a-2b9b3187b94a)
 
+Chọn các thông tin theo ý thích cá nhân
+
+
 ![image](https://github.com/hieulecyber/Microsoft365DeveloperProgram/assets/102139186/404741f2-ee28-40d3-8824-14c7385458b6)
 
 ![image](https://github.com/hieulecyber/Microsoft365DeveloperProgram/assets/102139186/3ba91847-260e-4163-9a1b-15740b1afb7e)
